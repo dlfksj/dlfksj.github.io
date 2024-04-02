@@ -3,11 +3,11 @@ title: "Post Title"
 excerpt: "주요 내용"
 
 categories: # 카테고리 설정
-  - category1
+  - web
 tags: # 포스트 태그
   - [tag1, tag2]
 
-permalink: /category1/test-post/ # 포스트 URL
+permalink: /web/test-post/ # 포스트 URL
 
 toc: true # 우측에 본문 목차 네비게이션 생성
 toc_sticky: true # 본문 목차 네비게이션 고정 여부

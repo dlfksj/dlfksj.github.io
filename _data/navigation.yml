@@ -13,5 +13,5 @@ main:
 
 # sidebar navigations
 categories:
-  - title: "Category1"
-    url: /categories/category1/
+  - title: "WEB"
+    url: /categories/web/
